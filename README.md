@@ -1,0 +1,1 @@
+Dockerhub image: https://hub.docker.com/r/ch4uxx/laravel
